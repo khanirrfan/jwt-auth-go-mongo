@@ -1,2 +1,2 @@
 # go-mongo
-Restful APIs with mongoDB in golang
+JWT Authentication with mongoDB in golang
